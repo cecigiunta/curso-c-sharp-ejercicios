@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ejercicios\maxParesminImpares\obj\Debug\net5.0\ejercicio5.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ejercicios\maxParesminImpares\obj\Debug\net5.0\ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ejercicios\maxParesminImpares\obj\Debug\net5.0\ejercicio5.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ejercicios\maxParesminImpares\obj\Debug\net5.0\ejercicio5.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ejercicios\maxParesminImpares\obj\Debug\net5.0\ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ejercicios\maxParesminImpares\bin\Debug\net5.0\ejercicio5.exe
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ejercicios\maxParesminImpares\bin\Debug\net5.0\ejercicio5.deps.json
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ejercicios\maxParesminImpares\bin\Debug\net5.0\ejercicio5.runtimeconfig.json
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ejercicios\maxParesminImpares\bin\Debug\net5.0\ejercicio5.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ejercicios\maxParesminImpares\bin\Debug\net5.0\ejercicio5.dll
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ejercicios\maxParesminImpares\bin\Debug\net5.0\ref\ejercicio5.dll
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ejercicios\maxParesminImpares\bin\Debug\net5.0\ejercicio5.pdb
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ejercicios\maxParesminImpares\obj\Debug\net5.0\ejercicio5.dll
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ejercicios\maxParesminImpares\obj\Debug\net5.0\ref\ejercicio5.dll
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ejercicios\maxParesminImpares\obj\Debug\net5.0\ejercicio5.pdb
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ejercicios\maxParesminImpares\obj\Debug\net5.0\ejercicio5.genruntimeconfig.cache

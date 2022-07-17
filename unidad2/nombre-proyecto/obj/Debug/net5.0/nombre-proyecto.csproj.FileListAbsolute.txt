@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\cursoC#\nombre-proyecto\bin\Debug\net5.0\nombre-proyecto.exe
+C:\Users\lenovo\Desktop\cursoC#\nombre-proyecto\bin\Debug\net5.0\nombre-proyecto.deps.json
+C:\Users\lenovo\Desktop\cursoC#\nombre-proyecto\bin\Debug\net5.0\nombre-proyecto.runtimeconfig.json
+C:\Users\lenovo\Desktop\cursoC#\nombre-proyecto\bin\Debug\net5.0\nombre-proyecto.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\cursoC#\nombre-proyecto\bin\Debug\net5.0\nombre-proyecto.dll
+C:\Users\lenovo\Desktop\cursoC#\nombre-proyecto\bin\Debug\net5.0\ref\nombre-proyecto.dll
+C:\Users\lenovo\Desktop\cursoC#\nombre-proyecto\bin\Debug\net5.0\nombre-proyecto.pdb
+C:\Users\lenovo\Desktop\cursoC#\nombre-proyecto\obj\Debug\net5.0\nombre-proyecto.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\cursoC#\nombre-proyecto\obj\Debug\net5.0\nombre-proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\cursoC#\nombre-proyecto\obj\Debug\net5.0\nombre-proyecto.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\nombre-proyecto\obj\Debug\net5.0\nombre-proyecto.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\cursoC#\nombre-proyecto\obj\Debug\net5.0\nombre-proyecto.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\nombre-proyecto\obj\Debug\net5.0\nombre-proyecto.dll
+C:\Users\lenovo\Desktop\cursoC#\nombre-proyecto\obj\Debug\net5.0\ref\nombre-proyecto.dll
+C:\Users\lenovo\Desktop\cursoC#\nombre-proyecto\obj\Debug\net5.0\nombre-proyecto.pdb
+C:\Users\lenovo\Desktop\cursoC#\nombre-proyecto\obj\Debug\net5.0\nombre-proyecto.genruntimeconfig.cache

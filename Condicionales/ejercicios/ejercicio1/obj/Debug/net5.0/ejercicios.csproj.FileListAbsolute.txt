@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\cursoC#\Condicionales\ejercicios\ejercicio1\obj\Debug\net5.0\ejercicios.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\cursoC#\Condicionales\ejercicios\ejercicio1\obj\Debug\net5.0\ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\cursoC#\Condicionales\ejercicios\ejercicio1\obj\Debug\net5.0\ejercicios.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\Condicionales\ejercicios\ejercicio1\obj\Debug\net5.0\ejercicios.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\cursoC#\Condicionales\ejercicios\ejercicio1\obj\Debug\net5.0\ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\Condicionales\ejercicios\ejercicio1\bin\Debug\net5.0\ejercicios.exe
+C:\Users\lenovo\Desktop\cursoC#\Condicionales\ejercicios\ejercicio1\bin\Debug\net5.0\ejercicios.deps.json
+C:\Users\lenovo\Desktop\cursoC#\Condicionales\ejercicios\ejercicio1\bin\Debug\net5.0\ejercicios.runtimeconfig.json
+C:\Users\lenovo\Desktop\cursoC#\Condicionales\ejercicios\ejercicio1\bin\Debug\net5.0\ejercicios.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\cursoC#\Condicionales\ejercicios\ejercicio1\bin\Debug\net5.0\ejercicios.dll
+C:\Users\lenovo\Desktop\cursoC#\Condicionales\ejercicios\ejercicio1\bin\Debug\net5.0\ref\ejercicios.dll
+C:\Users\lenovo\Desktop\cursoC#\Condicionales\ejercicios\ejercicio1\bin\Debug\net5.0\ejercicios.pdb
+C:\Users\lenovo\Desktop\cursoC#\Condicionales\ejercicios\ejercicio1\obj\Debug\net5.0\ejercicios.dll
+C:\Users\lenovo\Desktop\cursoC#\Condicionales\ejercicios\ejercicio1\obj\Debug\net5.0\ref\ejercicios.dll
+C:\Users\lenovo\Desktop\cursoC#\Condicionales\ejercicios\ejercicio1\obj\Debug\net5.0\ejercicios.pdb
+C:\Users\lenovo\Desktop\cursoC#\Condicionales\ejercicios\ejercicio1\obj\Debug\net5.0\ejercicios.genruntimeconfig.cache

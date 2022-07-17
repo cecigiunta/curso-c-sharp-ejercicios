@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\cursoC#\unidad3Condicionales\ejemplos\bin\Debug\net5.0\ejemplos.exe
+C:\Users\lenovo\Desktop\cursoC#\unidad3Condicionales\ejemplos\bin\Debug\net5.0\ejemplos.deps.json
+C:\Users\lenovo\Desktop\cursoC#\unidad3Condicionales\ejemplos\bin\Debug\net5.0\ejemplos.runtimeconfig.json
+C:\Users\lenovo\Desktop\cursoC#\unidad3Condicionales\ejemplos\bin\Debug\net5.0\ejemplos.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\cursoC#\unidad3Condicionales\ejemplos\bin\Debug\net5.0\ejemplos.dll
+C:\Users\lenovo\Desktop\cursoC#\unidad3Condicionales\ejemplos\bin\Debug\net5.0\ref\ejemplos.dll
+C:\Users\lenovo\Desktop\cursoC#\unidad3Condicionales\ejemplos\bin\Debug\net5.0\ejemplos.pdb
+C:\Users\lenovo\Desktop\cursoC#\unidad3Condicionales\ejemplos\obj\Debug\net5.0\ejemplos.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\cursoC#\unidad3Condicionales\ejemplos\obj\Debug\net5.0\ejemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\cursoC#\unidad3Condicionales\ejemplos\obj\Debug\net5.0\ejemplos.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\unidad3Condicionales\ejemplos\obj\Debug\net5.0\ejemplos.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\cursoC#\unidad3Condicionales\ejemplos\obj\Debug\net5.0\ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\unidad3Condicionales\ejemplos\obj\Debug\net5.0\ejemplos.dll
+C:\Users\lenovo\Desktop\cursoC#\unidad3Condicionales\ejemplos\obj\Debug\net5.0\ref\ejemplos.dll
+C:\Users\lenovo\Desktop\cursoC#\unidad3Condicionales\ejemplos\obj\Debug\net5.0\ejemplos.pdb
+C:\Users\lenovo\Desktop\cursoC#\unidad3Condicionales\ejemplos\obj\Debug\net5.0\ejemplos.genruntimeconfig.cache

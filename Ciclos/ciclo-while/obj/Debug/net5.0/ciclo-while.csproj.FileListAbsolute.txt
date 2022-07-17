@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ciclo-while\bin\Debug\net5.0\ciclo-while.exe
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ciclo-while\bin\Debug\net5.0\ciclo-while.deps.json
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ciclo-while\bin\Debug\net5.0\ciclo-while.runtimeconfig.json
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ciclo-while\bin\Debug\net5.0\ciclo-while.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ciclo-while\bin\Debug\net5.0\ciclo-while.dll
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ciclo-while\bin\Debug\net5.0\ref\ciclo-while.dll
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ciclo-while\bin\Debug\net5.0\ciclo-while.pdb
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ciclo-while\obj\Debug\net5.0\ciclo-while.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ciclo-while\obj\Debug\net5.0\ciclo-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ciclo-while\obj\Debug\net5.0\ciclo-while.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ciclo-while\obj\Debug\net5.0\ciclo-while.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ciclo-while\obj\Debug\net5.0\ciclo-while.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ciclo-while\obj\Debug\net5.0\ciclo-while.dll
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ciclo-while\obj\Debug\net5.0\ref\ciclo-while.dll
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ciclo-while\obj\Debug\net5.0\ciclo-while.pdb
+C:\Users\lenovo\Desktop\cursoC#\Ciclos\ciclo-while\obj\Debug\net5.0\ciclo-while.genruntimeconfig.cache
