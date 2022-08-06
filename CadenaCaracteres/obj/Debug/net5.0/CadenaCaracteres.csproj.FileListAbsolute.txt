@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\bin\Debug\net5.0\CadenaCaracteres.exe
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\bin\Debug\net5.0\CadenaCaracteres.deps.json
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\bin\Debug\net5.0\CadenaCaracteres.runtimeconfig.json
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\bin\Debug\net5.0\CadenaCaracteres.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\bin\Debug\net5.0\CadenaCaracteres.dll
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\bin\Debug\net5.0\ref\CadenaCaracteres.dll
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\bin\Debug\net5.0\CadenaCaracteres.pdb
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\obj\Debug\net5.0\CadenaCaracteres.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\obj\Debug\net5.0\CadenaCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\obj\Debug\net5.0\CadenaCaracteres.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\obj\Debug\net5.0\CadenaCaracteres.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\obj\Debug\net5.0\CadenaCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\obj\Debug\net5.0\CadenaCaracteres.dll
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\obj\Debug\net5.0\ref\CadenaCaracteres.dll
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\obj\Debug\net5.0\CadenaCaracteres.pdb
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\obj\Debug\net5.0\CadenaCaracteres.genruntimeconfig.cache

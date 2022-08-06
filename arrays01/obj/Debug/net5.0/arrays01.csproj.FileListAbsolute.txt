@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\cursoC#\arrays01\bin\Debug\net5.0\arrays01.exe
+C:\Users\lenovo\Desktop\cursoC#\arrays01\bin\Debug\net5.0\arrays01.deps.json
+C:\Users\lenovo\Desktop\cursoC#\arrays01\bin\Debug\net5.0\arrays01.runtimeconfig.json
+C:\Users\lenovo\Desktop\cursoC#\arrays01\bin\Debug\net5.0\arrays01.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\cursoC#\arrays01\bin\Debug\net5.0\arrays01.dll
+C:\Users\lenovo\Desktop\cursoC#\arrays01\bin\Debug\net5.0\ref\arrays01.dll
+C:\Users\lenovo\Desktop\cursoC#\arrays01\bin\Debug\net5.0\arrays01.pdb
+C:\Users\lenovo\Desktop\cursoC#\arrays01\obj\Debug\net5.0\arrays01.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\cursoC#\arrays01\obj\Debug\net5.0\arrays01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\cursoC#\arrays01\obj\Debug\net5.0\arrays01.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\arrays01\obj\Debug\net5.0\arrays01.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\cursoC#\arrays01\obj\Debug\net5.0\arrays01.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\arrays01\obj\Debug\net5.0\arrays01.dll
+C:\Users\lenovo\Desktop\cursoC#\arrays01\obj\Debug\net5.0\ref\arrays01.dll
+C:\Users\lenovo\Desktop\cursoC#\arrays01\obj\Debug\net5.0\arrays01.pdb
+C:\Users\lenovo\Desktop\cursoC#\arrays01\obj\Debug\net5.0\arrays01.genruntimeconfig.cache
