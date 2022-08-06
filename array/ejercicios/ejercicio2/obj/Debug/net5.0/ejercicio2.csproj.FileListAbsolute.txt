@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\ejercicio2\bin\Debug\net5.0\ejercicio2.exe
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\ejercicio2\bin\Debug\net5.0\ejercicio2.deps.json
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\ejercicio2\bin\Debug\net5.0\ejercicio2.runtimeconfig.json
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\ejercicio2\bin\Debug\net5.0\ejercicio2.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\ejercicio2\bin\Debug\net5.0\ejercicio2.dll
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\ejercicio2\bin\Debug\net5.0\ref\ejercicio2.dll
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\ejercicio2\bin\Debug\net5.0\ejercicio2.pdb
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\ejercicio2\obj\Debug\net5.0\ejercicio2.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\ejercicio2\obj\Debug\net5.0\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\ejercicio2\obj\Debug\net5.0\ejercicio2.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\ejercicio2\obj\Debug\net5.0\ejercicio2.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\ejercicio2\obj\Debug\net5.0\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\ejercicio2\obj\Debug\net5.0\ejercicio2.dll
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\ejercicio2\obj\Debug\net5.0\ref\ejercicio2.dll
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\ejercicio2\obj\Debug\net5.0\ejercicio2.pdb
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\ejercicio2\obj\Debug\net5.0\ejercicio2.genruntimeconfig.cache
