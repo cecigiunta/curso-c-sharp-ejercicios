@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\ejercicios\reemplazoCaracter\bin\Debug\net5.0\reemplazoCaracter.exe
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\ejercicios\reemplazoCaracter\bin\Debug\net5.0\reemplazoCaracter.deps.json
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\ejercicios\reemplazoCaracter\bin\Debug\net5.0\reemplazoCaracter.runtimeconfig.json
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\ejercicios\reemplazoCaracter\bin\Debug\net5.0\reemplazoCaracter.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\ejercicios\reemplazoCaracter\bin\Debug\net5.0\reemplazoCaracter.dll
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\ejercicios\reemplazoCaracter\bin\Debug\net5.0\ref\reemplazoCaracter.dll
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\ejercicios\reemplazoCaracter\bin\Debug\net5.0\reemplazoCaracter.pdb
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\ejercicios\reemplazoCaracter\obj\Debug\net5.0\reemplazoCaracter.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\ejercicios\reemplazoCaracter\obj\Debug\net5.0\reemplazoCaracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\ejercicios\reemplazoCaracter\obj\Debug\net5.0\reemplazoCaracter.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\ejercicios\reemplazoCaracter\obj\Debug\net5.0\reemplazoCaracter.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\ejercicios\reemplazoCaracter\obj\Debug\net5.0\reemplazoCaracter.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\ejercicios\reemplazoCaracter\obj\Debug\net5.0\reemplazoCaracter.dll
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\ejercicios\reemplazoCaracter\obj\Debug\net5.0\ref\reemplazoCaracter.dll
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\ejercicios\reemplazoCaracter\obj\Debug\net5.0\reemplazoCaracter.pdb
+C:\Users\lenovo\Desktop\cursoC#\CadenaCaracteres\ejercicios\reemplazoCaracter\obj\Debug\net5.0\reemplazoCaracter.genruntimeconfig.cache
