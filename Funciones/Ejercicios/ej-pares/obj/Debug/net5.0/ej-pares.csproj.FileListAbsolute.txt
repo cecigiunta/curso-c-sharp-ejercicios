@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\cursoC#\Funciones\Ejercicios\ej-pares\obj\Debug\net5.0\ej-pares.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\cursoC#\Funciones\Ejercicios\ej-pares\obj\Debug\net5.0\ej-pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\cursoC#\Funciones\Ejercicios\ej-pares\obj\Debug\net5.0\ej-pares.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\Funciones\Ejercicios\ej-pares\obj\Debug\net5.0\ej-pares.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\cursoC#\Funciones\Ejercicios\ej-pares\obj\Debug\net5.0\ej-pares.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\Funciones\Ejercicios\ej-pares\bin\Debug\net5.0\ej-pares.exe
+C:\Users\lenovo\Desktop\cursoC#\Funciones\Ejercicios\ej-pares\bin\Debug\net5.0\ej-pares.deps.json
+C:\Users\lenovo\Desktop\cursoC#\Funciones\Ejercicios\ej-pares\bin\Debug\net5.0\ej-pares.runtimeconfig.json
+C:\Users\lenovo\Desktop\cursoC#\Funciones\Ejercicios\ej-pares\bin\Debug\net5.0\ej-pares.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\cursoC#\Funciones\Ejercicios\ej-pares\bin\Debug\net5.0\ej-pares.dll
+C:\Users\lenovo\Desktop\cursoC#\Funciones\Ejercicios\ej-pares\bin\Debug\net5.0\ref\ej-pares.dll
+C:\Users\lenovo\Desktop\cursoC#\Funciones\Ejercicios\ej-pares\bin\Debug\net5.0\ej-pares.pdb
+C:\Users\lenovo\Desktop\cursoC#\Funciones\Ejercicios\ej-pares\obj\Debug\net5.0\ej-pares.dll
+C:\Users\lenovo\Desktop\cursoC#\Funciones\Ejercicios\ej-pares\obj\Debug\net5.0\ref\ej-pares.dll
+C:\Users\lenovo\Desktop\cursoC#\Funciones\Ejercicios\ej-pares\obj\Debug\net5.0\ej-pares.pdb
+C:\Users\lenovo\Desktop\cursoC#\Funciones\Ejercicios\ej-pares\obj\Debug\net5.0\ej-pares.genruntimeconfig.cache
