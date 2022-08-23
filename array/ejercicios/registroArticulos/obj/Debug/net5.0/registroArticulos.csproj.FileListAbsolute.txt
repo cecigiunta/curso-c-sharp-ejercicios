@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\registroArticulos\obj\Debug\net5.0\registroArticulos.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\registroArticulos\obj\Debug\net5.0\registroArticulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\registroArticulos\obj\Debug\net5.0\registroArticulos.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\registroArticulos\obj\Debug\net5.0\registroArticulos.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\registroArticulos\obj\Debug\net5.0\registroArticulos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\registroArticulos\bin\Debug\net5.0\registroArticulos.exe
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\registroArticulos\bin\Debug\net5.0\registroArticulos.deps.json
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\registroArticulos\bin\Debug\net5.0\registroArticulos.runtimeconfig.json
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\registroArticulos\bin\Debug\net5.0\registroArticulos.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\registroArticulos\bin\Debug\net5.0\registroArticulos.dll
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\registroArticulos\bin\Debug\net5.0\ref\registroArticulos.dll
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\registroArticulos\bin\Debug\net5.0\registroArticulos.pdb
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\registroArticulos\obj\Debug\net5.0\registroArticulos.dll
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\registroArticulos\obj\Debug\net5.0\ref\registroArticulos.dll
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\registroArticulos\obj\Debug\net5.0\registroArticulos.pdb
+C:\Users\lenovo\Desktop\cursoC#\array\ejercicios\registroArticulos\obj\Debug\net5.0\registroArticulos.genruntimeconfig.cache
