@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\cursoC#\TPFinal_Giunta\obj\Debug\net5.0\TPFinal_Giunta.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\cursoC#\TPFinal_Giunta\obj\Debug\net5.0\TPFinal_Giunta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\cursoC#\TPFinal_Giunta\obj\Debug\net5.0\TPFinal_Giunta.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\TPFinal_Giunta\obj\Debug\net5.0\TPFinal_Giunta.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\cursoC#\TPFinal_Giunta\obj\Debug\net5.0\TPFinal_Giunta.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\cursoC#\TPFinal_Giunta\bin\Debug\net5.0\TPFinal_Giunta.exe
+C:\Users\lenovo\Desktop\cursoC#\TPFinal_Giunta\bin\Debug\net5.0\TPFinal_Giunta.deps.json
+C:\Users\lenovo\Desktop\cursoC#\TPFinal_Giunta\bin\Debug\net5.0\TPFinal_Giunta.runtimeconfig.json
+C:\Users\lenovo\Desktop\cursoC#\TPFinal_Giunta\bin\Debug\net5.0\TPFinal_Giunta.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\cursoC#\TPFinal_Giunta\bin\Debug\net5.0\TPFinal_Giunta.dll
+C:\Users\lenovo\Desktop\cursoC#\TPFinal_Giunta\bin\Debug\net5.0\ref\TPFinal_Giunta.dll
+C:\Users\lenovo\Desktop\cursoC#\TPFinal_Giunta\bin\Debug\net5.0\TPFinal_Giunta.pdb
+C:\Users\lenovo\Desktop\cursoC#\TPFinal_Giunta\obj\Debug\net5.0\TPFinal_Giunta.dll
+C:\Users\lenovo\Desktop\cursoC#\TPFinal_Giunta\obj\Debug\net5.0\ref\TPFinal_Giunta.dll
+C:\Users\lenovo\Desktop\cursoC#\TPFinal_Giunta\obj\Debug\net5.0\TPFinal_Giunta.pdb
+C:\Users\lenovo\Desktop\cursoC#\TPFinal_Giunta\obj\Debug\net5.0\TPFinal_Giunta.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\cursoC#\\Ciclos\\ejercicios\\numeroPRIMO\\ejercicio4.csproj",
-      "projectName": "ejercicio4",
-      "projectPath": "C:\\Users\\lenovo\\Desktop\\cursoC#\\Ciclos\\ejercicios\\numeroPRIMO\\ejercicio4.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\cursoC#\\TPFinal_Giunta\\TPFinal_Giunta.csproj",
+      "projectName": "TPFinal_Giunta",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\cursoC#\\TPFinal_Giunta\\TPFinal_Giunta.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\Desktop\\cursoC#\\Ciclos\\ejercicios\\numeroPRIMO\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\cursoC#\\TPFinal_Giunta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
